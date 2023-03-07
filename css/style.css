@@ -1,0 +1,17 @@
+/* HEADER */
+header {
+    height: 50px;
+    background-color: white;
+}
+
+/* MAIN */
+.container img {
+    position: relative;
+}
+
+.container h2 {
+    position: absolute;
+    bottom: 217px;
+    right: 273px;
+    color: white;
+}
