@@ -1,0 +1,27 @@
+/* 1200px */
+@media screen and (max-width: 1200px) {
+    section h2 {
+        font-size: 1.5rem;
+    }
+}
+
+/* 992px */
+@media screen and (max-width: 992px) {
+    section h2 {
+        font-size: 1.2rem;
+    }
+}
+
+/* 768px */
+@media screen and (max-width: 768px) {
+    section h2 {
+        font-size: 0.9rem;
+    }
+}
+
+/* 575px */
+@media screen and (max-width: 575px) {
+    section h2 {
+        font-size: 0.6rem;
+    }
+}

@@ -5,13 +5,20 @@ header {
 }
 
 /* MAIN */
-.container img {
+section {
     position: relative;
 }
 
-.container h2 {
+section img {
+    width: 100%;
+}
+
+section h2 {
     position: absolute;
-    bottom: 217px;
-    right: 273px;
+    top: 61%;
+    left: 50%;
     color: white;
+    font-size: 1.7rem;
+    height: 14%;
+    width: 42%;
 }

@@ -1,5 +1,5 @@
 // Creazione Password insicurissima
-alert('ATTENZIONE! Questo è il sito migliore del mondo per creare una password inutile :)');
+alert('ATTENZIONE! \nQuesto è il sito migliore al mondo per creare una password inutile :)');
 
 // Chiedere il nome all'utente
 const username = prompt("Ciao utente, qual è il tuo nome?");
